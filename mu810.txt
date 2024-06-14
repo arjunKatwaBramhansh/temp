@@ -1,4 +1,4 @@
-v2
+v3
 https://migraelief.com/bramhansh/audio/shunya.mp3
 https://migraelief.com/bramhansh/audio/ekah.mp3
 https://migraelief.com/bramhansh/audio/dvau.mp3
@@ -7,3 +7,5 @@ http://radio.punjabrocks.com:9988/punjab
 https://oshoradio.net/Emusic/Osho%20Radio%202019-05-07.mp3
 https://2bhanuman.out.airtime.pro:8000/2bhanuman_a
 https://streamer-02.rtl.fr/rtl2-1-44-64
+https://d3smpal0qmdo9r.cloudfront.net/v4nak2%2Ffile%2Fd3c296f761a895c5097ccb2655540a29_58fa867e482d1ea775e1f2f38b0c3504.mp3?response-content-disposition=inline%3Bfilename%3D%22d3c296f761a895c5097ccb2655540a29_58fa867e482d1ea775e1f2f38b0c3504.mp3%22%3B&response-content-type=audio%2Fmpeg&Expires=1718388613&Signature=YFVDXiXsRhG1k~8MBY7y4gK4sv6QaVPWNEERyDfb4lb9A6Y0wLggUFRh2qvEmMPY1xyyoB6IOTO09C7K~mD9nGRefNJp4~x5k70HNT2HVr70rmYp~9xufrrZJ~6IRJfExA37UyoqZgrMiaOCLfLkM~nmHlWJwE7gDj9qGpkKlvjsmAgfbhL0OWUzVHHVEQ9Q4QnDzWgPRQZIQTMKaosigjzWGayiT4CvAixA2BW4RwfAS-ZKHP73-Tia7TXG6ujgyUqL3borJjwZUqH-k96uZNisBpFqiyk-nibY2QvCxXcyNm1lN1b1WWFgLafx9L6CoI00Z1n~8sluBiMo2Lvinw__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ
+https://shorturl.at/T3AV5
