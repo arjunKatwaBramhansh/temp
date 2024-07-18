@@ -1,4 +1,4 @@
-v2
+v1
 https://dl.dropboxusercontent.com/scl/fi/jubto8oaz60sfef7t6b1y/LordKrishnaFluteMusic15Min64-kbps.mp3?rlkey=g9p62skb4r2cf8pwqlnpumo80&st=3r7lgsv5
 nomp3:http://radio.punjabrocks.com:9988/punjab
 https://dl.dropbox.com/scl/fi/k0c6nrgj789j06s0r66xd/Om-108-Times-Music-for-Yoga-Meditation_64k.mp3?rlkey=g1myfnrt02lgw9cjj0dfyfkiz&st=v9jtf6ry
@@ -14,4 +14,5 @@ https://migraelief.com/bramhansh/audio/ekah.mp3
 https://migraelief.com/bramhansh/audio/dvau.mp3
 https://migraelief.com/bramhansh/audio/tray.mp3
 https://migraelief.com/bramhansh/audio/shunya.mp3
+https://dl.dropbox.com/scl/fi/eatcka9bo1158dpz96ley/bajrang-baan-lofi_52S_64k.mp3?rlkey=8pv08veu8um71odboik7886ss&st=e1jhr60p
 https://dl.dropboxusercontent.com/scl/fi/ex4anwi1vm8fgzcc0ijxi/GeetaSaarIn34MinutesBykrishna_64kbps.mp3?rlkey=piwpw2lm0buab1aqnr4h9etds&st=1yz5robh
