@@ -1,0 +1,8 @@
+v1
+fetch:https://raw.githubusercontent.com/arjunKatwaBramhansh/temp/main/play1.txt
+fetchStable:https://raw.githubusercontent.com/arjunKatwaBramhansh/temp/main/stable.txt
+playlist:4
+https://migraelief.com/bramhansh/audio/shunya.mp3
+https://migraelief.com/bramhansh/audio/ekah.mp3
+https://migraelief.com/bramhansh/audio/dvau.mp3
+https://migraelief.com/bramhansh/audio/tray.mp3
