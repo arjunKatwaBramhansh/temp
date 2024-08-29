@@ -1,5 +1,6 @@
-v3
+v1
 fetch:https://raw.githubusercontent.com/arjunKatwaBramhansh/temp/main/play1.txt
+fetchStable:https://raw.githubusercontent.com/arjunKatwaBramhansh/temp/main/stable.txt
 playlist:9
 https://dl.dropbox.com/scl/fi/xqnkmljqzjxsbyyx6fj6k/sleep_65_0-65_64kbps.mp3?rlkey=nc0vn7swj0wq5p1wjq9lrbq35&st=mop37lin
 https://dl.dropbox.com/scl/fi/mpojzw4s7pyw86pbuvula/minful_breath_64kbps.mp3?rlkey=wfx7bherp4w5dys4fxqccov0o&st=nz52pv6r
