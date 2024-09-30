@@ -3,7 +3,7 @@ fetch:https://raw.githubusercontent.com/arjunKatwaBramhansh/temp/refs/heads/main
 fetchStable:https://raw.githubusercontent.com/arjunKatwaBramhansh/temp/refs/heads/main/stable.txt
 dTone:https://dl.dropboxusercontent.com/scl/fi/q4lxscgcv045it6mwblus/plsHoldVpVmToupgDevElseOflnv180.mp3?rlkey=intbh0tha1q78d2503vw6ofwj&st=3mphmys0
 playlist:6
-https://dl.dropbox.com/scl/fi/qwyc9x300thil8619qe0l/Becoming-One-with-the-Light-Guided64kbps150vMeditation.mp3?rlkey=4zaa3lklq8lwjqiqhv5l25toq&st=uefjk6l6
+https://dl.dropbox.com/scl/fi/qwyc9x300thil8619qe0l/Becoming-One-with-the-Light-Guided64kbps150vMeditation.mp3?rlkey=4zaa3lklq8lwjqiqhv5l25toq&st=ovzi8ijs
 http://radio.punjabrocks.com:9988/punjab
 https://oshoradio.net/Emusic/Osho%20Radio%202019-05-07.mp3
 https://streamer-02.rtl.fr/rtl2-1-44-64
