@@ -2,7 +2,7 @@ v1
 fetch:
 fetchStable:https://raw.githubusercontent.com/arjunKatwaBramhansh/temp/main/stable.txt
 dTone:
-playlist:4
+playlist:8
 https://migraelief.com/bramhansh/audio/shunya.mp3
 https://migraelief.com/bramhansh/audio/ekah.mp3
 https://migraelief.com/bramhansh/audio/dvau.mp3
