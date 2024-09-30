@@ -1,9 +1,11 @@
-v4
+v6
 fetch:https://raw.githubusercontent.com/arjunKatwaBramhansh/temp/refs/heads/main/stable.txt
 fetchStable:https://raw.githubusercontent.com/arjunKatwaBramhansh/temp/refs/heads/main/stable.txt
 dTone:https://dl.dropboxusercontent.com/scl/fi/q4lxscgcv045it6mwblus/plsHoldVpVmToupgDevElseOflnv180.mp3?rlkey=intbh0tha1q78d2503vw6ofwj&st=3mphmys0
-playlist:6
+playlist:8
 https://dl.dropbox.com/scl/fi/qwyc9x300thil8619qe0l/Becoming-One-with-the-Light-Guided64kbps150vMeditation.mp3?rlkey=4zaa3lklq8lwjqiqhv5l25toq&st=ovzi8ijs
+https://dl.dropbox.com/scl/fi/0q6ka2zfvdn00z136ikj9/You-Will-Have-a-Bright-Future-Guided64kbps150v-Meditation.mp3?rlkey=mpk5sywi4tmpvk5or4qlnq831&st=7lj7v5at
+https://dl.dropbox.com/scl/fi/x7s2om8zcj5o4wkrv5vrt/Four-Square-Breathing-Meditation64kb150v.mp3?rlkey=bfuzyxkcb4154ukeq0t2wb8go&st=tv0bucwe
 http://radio.punjabrocks.com:9988/punjab
 https://oshoradio.net/Emusic/Osho%20Radio%202019-05-07.mp3
 https://streamer-02.rtl.fr/rtl2-1-44-64
