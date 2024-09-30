@@ -1,12 +1,10 @@
-v1
+v2
 fetch:https://raw.githubusercontent.com/arjunKatwaBramhansh/temp/refs/heads/main/stableTry.txt
 fetchStable:https://raw.githubusercontent.com/arjunKatwaBramhansh/temp/refs/heads/main/stable.txt
 dTone:https://dl.dropboxusercontent.com/scl/fi/q4lxscgcv045it6mwblus/plsHoldVpVmToupgDevElseOflnv180.mp3?rlkey=intbh0tha1q78d2503vw6ofwj&st=3mphmys0
 playlist:8
-https://migraelief.com/bramhansh/audio/shunya.mp3
-https://migraelief.com/bramhansh/audio/ekah.mp3
-https://migraelief.com/bramhansh/audio/dvau.mp3
-https://migraelief.com/bramhansh/audio/tray.mp3
+https://dl.dropbox.com/scl/fi/49pg4n1c11h8uecfse3sp/You-Will-Have-a-Bright-Future-Guided128kbps-Meditation.mp3?rlkey=ix3zypoxc3l04dnffvh717l49&st=fl2buj4v
+https://dl.dropbox.com/scl/fi/klufk1ys00yyoito1rgl3/Becoming-One-with-the-Light-Guided128kbps-Meditation.mp3?rlkey=kjzfi666yx0d230hbucgbxcpo&st=skpjmqwy
 http://radio.punjabrocks.com:9988/punjab
 https://oshoradio.net/Emusic/Osho%20Radio%202019-05-07.mp3
 https://2bhanuman.out.airtime.pro:8000/2bhanuman_a
