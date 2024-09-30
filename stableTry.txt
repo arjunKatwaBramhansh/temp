@@ -1,7 +1,7 @@
 v1
-fetch:
-fetchStable:https://raw.githubusercontent.com/arjunKatwaBramhansh/temp/main/stable.txt
-dTone:
+fetch:https://raw.githubusercontent.com/arjunKatwaBramhansh/temp/refs/heads/main/stableTry.txt
+fetchStable:https://raw.githubusercontent.com/arjunKatwaBramhansh/temp/refs/heads/main/stable.txt
+dTone:https://dl.dropboxusercontent.com/scl/fi/q4lxscgcv045it6mwblus/plsHoldVpVmToupgDevElseOflnv180.mp3?rlkey=intbh0tha1q78d2503vw6ofwj&st=3mphmys0
 playlist:8
 https://migraelief.com/bramhansh/audio/shunya.mp3
 https://migraelief.com/bramhansh/audio/ekah.mp3
