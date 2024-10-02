@@ -2,6 +2,8 @@ v6
 fetch:https://raw.githubusercontent.com/arjunKatwaBramhansh/temp/refs/heads/main/stable.txt
 fetchStable:https://raw.githubusercontent.com/arjunKatwaBramhansh/temp/refs/heads/main/stable.txt
 dTone:https://dl.dropboxusercontent.com/scl/fi/q4lxscgcv045it6mwblus/plsHoldVpVmToupgDevElseOflnv180.mp3?rlkey=intbh0tha1q78d2503vw6ofwj&st=3mphmys0
+playlist:1
+https://dl.dropbox.com/scl/fi/1ss4vk5hymt9gk45h7ksl/quantumBandRawWave_jaideep.mp3?rlkey=28rsxjdcquqdgof7wa1gnj3j5&st=75gjzy0h
 playlist:8
 https://dl.dropbox.com/scl/fi/qwyc9x300thil8619qe0l/Becoming-One-with-the-Light-Guided64kbps150vMeditation.mp3?rlkey=4zaa3lklq8lwjqiqhv5l25toq&st=ovzi8ijs
 https://dl.dropbox.com/scl/fi/0q6ka2zfvdn00z136ikj9/You-Will-Have-a-Bright-Future-Guided64kbps150v-Meditation.mp3?rlkey=mpk5sywi4tmpvk5or4qlnq831&st=7lj7v5at
