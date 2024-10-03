@@ -1,4 +1,4 @@
-v9
+v10
 fetch:https://raw.githubusercontent.com/arjunKatwaBramhansh/temp/refs/heads/main/stable.txt
 fetchStable:https://raw.githubusercontent.com/arjunKatwaBramhansh/temp/refs/heads/main/stable.txt
 dTone:https://dl.dropboxusercontent.com/scl/fi/q4lxscgcv045it6mwblus/plsHoldVpVmToupgDevElseOflnv180.mp3?rlkey=intbh0tha1q78d2503vw6ofwj&st=3mphmys0
@@ -14,3 +14,6 @@ https://oshoradio.net/Emusic/Osho%20Radio%202019-05-07.mp3
 https://streamer-02.rtl.fr/rtl2-1-44-64
 https://dl.dropbox.com/scl/fi/9odtu59ukd53fe395etjm/Healthy-India-_-Stem-Cell-Therapy-_-03-November-2022_64k.mp3?rlkey=gvysnao6p97583bn186no7mai&st=nzse8ktx
 https://dl.dropbox.com/scl/fi/8k6rotgke36sinono6cw6/Healthy-India-_-The-Sunshine-Vitamin-_-Episode-3_64k.mp3?rlkey=woobhs6fo5qw70ja83087mgab&st=j2h0fkg7
+playlist:2
+https://dl.dropbox.com/scl/fi/mpojzw4s7pyw86pbuvula/minful_breath_64kbps.mp3?rlkey=wfx7bherp4w5dys4fxqccov0o&st=lcdo8qfi
+https://dl.dropbox.com/scl/fi/vj1oqc4m5786of5oy4swc/DR_jin_k_script_2_10_24.mp3?rlkey=anhy7rij1qomxcklyzehumi8w&st=2gj6jbvt
