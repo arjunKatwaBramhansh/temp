@@ -1,7 +1,7 @@
-v3
+v4
 fetch:https://raw.githubusercontent.com/arjunKatwaBramhansh/temp/refs/heads/main/stableTry.txt
 fetchStable:https://raw.githubusercontent.com/arjunKatwaBramhansh/temp/refs/heads/main/stable.txt
-dTone:https://quantumband.in/proxy-fetch.php?audio_url=https://quantumband.in/uploads/Request To Upgrade your Device.mp3
+dTone:https://quantumband.in/proxy-fetch.php?audio_url=https://quantumband.in/uploads/Request%20To%20Upgrade%20your%20Device.mp3
 playlist:2
 https://quantumband.in/proxy-fetch.php?audio_url=https://quantumband.in/uploads/DR_jin_k_GuidedMeditaionWithFrequencies.mp3
 https://quantumband.in/proxy-fetch.php?audio_url=https://quantumband.in/uploads/Mindfull_Breath_For_Well-being.mp3
