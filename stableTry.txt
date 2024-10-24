@@ -1,5 +1,5 @@
 v2
-fetch:https://raw.githubusercontent.com/arjunKatwaBramhansh/temp/refs/heads/main/stable.txt
+fetch:https://raw.githubusercontent.com/arjunKatwaBramhansh/temp/refs/heads/main/stableTry.txt
 fetchStable:https://raw.githubusercontent.com/arjunKatwaBramhansh/temp/refs/heads/main/stable.txt
 dTone:https://quantumband.in/proxy-fetch.php?audio_url=https://quantumband.in/uploads/Request To Upgrade your Device.mp3
 playlist:2
