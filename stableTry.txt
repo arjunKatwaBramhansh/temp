@@ -1,4 +1,4 @@
-v2
+v3
 fetch:https://raw.githubusercontent.com/arjunKatwaBramhansh/temp/refs/heads/main/stableTry.txt
 fetchStable:https://raw.githubusercontent.com/arjunKatwaBramhansh/temp/refs/heads/main/stable.txt
 dTone:https://quantumband.in/proxy-fetch.php?audio_url=https://quantumband.in/uploads/Request To Upgrade your Device.mp3
@@ -6,10 +6,13 @@ playlist:2
 https://quantumband.in/proxy-fetch.php?audio_url=https://quantumband.in/uploads/DR_jin_k_GuidedMeditaionWithFrequencies.mp3
 https://quantumband.in/proxy-fetch.php?audio_url=https://quantumband.in/uploads/Mindfull_Breath_For_Well-being.mp3
 playlist:4
-https://quantumband.in/proxy-fetch.php?audio_url=https://quantumband.in/uploads/Becoming One with the Light.mp3
-https://quantumband.in/proxy-fetch.php?audio_url=https://quantumband.in/uploads/Four Square Breathing Meditation.mp3
-https://quantumband.in/proxy-fetch.php?audio_url=https://quantumband.in/uploads/Kishna Theme Flute Music By Lakhinandan Lahon.mp3
-https://quantumband.in/proxy-fetch.php?audio_url=https://quantumband.in/uploads/Healthy India | The Sunshine Vitamin | Episode 3.mp3
+https://quantumband.in/proxy-fetch.php?audio_url=https://quantumband.in/uploads/Becoming%20One%20with%20the%20Light.mp3
+https://quantumband.in/proxy-fetch.php?audio_url=https://quantumband.in/uploads/Four%20Square%20Breathing%20Meditation.mp3
+https://quantumband.in/proxy-fetch.php?audio_url=https://quantumband.in/uploads/Kishna%20Theme%20Flute%20Music%20By%20Lakhinandan%20Lahon.mp3
+https://quantumband.in/proxy-fetch.php?audio_url=https://quantumband.in/uploads/Healthy%20India%20|%20The%20Sunshine%20Vitamin%20|%20Episode%203.mp3
+https://oshoradio.net/Emusic/Osho%20Radio%202019-05-07.mp3
+https://streamer-02.rtl.fr/rtl2-1-44-64
+http://radio.punjabrocks.com:9988/punjab
 playlist:2
 https://quantumband.in/proxy-fetch.php?audio_url=https://quantumband.in/uploads/mindful_Breath.mp3
 https://quantumband.in/proxy-fetch.php?audio_url=https://quantumband.in/uploads/DR_jin_k.mp3
