@@ -13,5 +13,3 @@ https://quantumband.in/proxy-fetch.php?audio_url=https://quantumband.in/uploads/
 playlist:2
 https://quantumband.in/proxy-fetch.php?audio_url=https://quantumband.in/uploads/mindful_Breath.mp3
 https://quantumband.in/proxy-fetch.php?audio_url=https://quantumband.in/uploads/DR_jin_k.mp3
-playlist:1
-https://quantumband.in/proxy-fetch.php?audio_url=https://quantumband.in/uploads/Request To Upgrade your Device.mp3
