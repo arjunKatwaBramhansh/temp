@@ -5,7 +5,7 @@ dTone:https://quantumband.in/proxy-fetch.php?audio_url=https://quantumband.in/up
 playlist:2
 https://quantumband.in/proxy-fetch.php?audio_url=https://quantumband.in/uploads/DR_jin_k_GuidedMeditaionWithFrequencies.mp3
 https://quantumband.in/proxy-fetch.php?audio_url=https://quantumband.in/uploads/Mindfull_Breath_For_Well-being.mp3
-playlist:4
+playlist:7
 https://quantumband.in/proxy-fetch.php?audio_url=https://quantumband.in/uploads/Becoming%20One%20with%20the%20Light.mp3
 https://quantumband.in/proxy-fetch.php?audio_url=https://quantumband.in/uploads/Four%20Square%20Breathing%20Meditation.mp3
 https://quantumband.in/proxy-fetch.php?audio_url=https://quantumband.in/uploads/Kishna%20Theme%20Flute%20Music%20By%20Lakhinandan%20Lahon.mp3
